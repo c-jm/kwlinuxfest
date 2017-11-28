@@ -47,7 +47,7 @@
             </div>
         </div>
     </section>
-
+<!--
      <!-- speakers -->
     <section class="speakers flex-center-center marketing-section">
         <div class="container">
@@ -185,6 +185,7 @@
             </div>
 
         </section>
+-->
     <script>
 $('.map-overlay').on('click', function() {
     $(this).css('display', 'none');
