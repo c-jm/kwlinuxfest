@@ -22,7 +22,7 @@
     <section class="hero flex flex-center-center">
         <div class="hero-content text-center">
             <h1 class="hero-lead"> Kitchener Waterloo Linux Fest 2018 </h1>
-            <h2 class="hero-sub-text"> A Linux/Open Source Conference For The Kitchener Waterloo Area: Call For Papers/Presentations Open Until November 1st 2017</h2>
+            <h2 class="hero-sub-text"> KW Linuxfest has been postponed to May 2nd 2018. The call for papers is still open. </h2>
         
             <a href="#register" class="hero-btn rounded"> Register To Speak </a>
         </div>
@@ -34,12 +34,10 @@
             <div class="row">
                 <div class="col-100">
                     <div class="text-center">
-                        <h2 class="section-lead"> About Linux Fest 2018 </h2>
+                        <h2 class="section-lead"> About KWLinux Fest 2018 </h2>
                         <p class="body-copy">
-                        A conference that is run to celebrate open source and all things *nix. 
-                        Open source is something to be celebrated let's get together and have a party!
-                        The conference will be run on January 27th 2018 at Conestoga College Doon Campus, Kitchener Ontario.
-                        Due to the success of the last two years we are excited for this year's activities.
+						Due to KW Linuxfest's close ties with the Conestoga College, the conference has had to be postponed due to the November 2017 strike.
+						The venue will now be changed (TBA). The speaker list is still intact and please continue to submit papers.
                         </p>
                         <a href="#register" class="btn large-top rounded"> Register To Speak </a>
                     </div>
@@ -59,7 +57,7 @@
                 </div>
                 <div class="col-100">
                     <div class="text-center">
-                        <h2 class="section-lead"> Call for papers open until November 1st 2017. Submit!</h2>
+                        <h2 class="section-lead"> Call for papers still open. </h2>
                     </div>
                 </div>
             </div>
