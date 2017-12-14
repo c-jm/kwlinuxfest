@@ -22,7 +22,7 @@
     <section class="hero flex flex-center-center">
         <div class="hero-content text-center">
             <h1 class="hero-lead"> Kitchener Waterloo Linux Fest 2018 </h1>
-            <h2 class="hero-sub-text"> KW Linuxfest has been postponed to May 2nd 2018. The call for papers is still open. </h2>
+            <h2 class="hero-sub-text"> KW Linuxfest has been postponed to May 12th 2018. The call for papers is still open. </h2>
         
             <a href="#register" class="hero-btn rounded"> Register To Speak </a>
         </div>
@@ -37,7 +37,7 @@
                         <h2 class="section-lead"> About KWLinux Fest 2018 </h2>
                         <p class="body-copy">
 						Due to KW Linuxfest's close ties with the Conestoga College, the conference has had to be postponed due to the November 2017 strike.
-						The venue will now be changed (TBA). The speaker list is still intact and please continue to submit papers.
+						The venue will now be changed (TBA). The speaker list is still intact please continue to submit papers if you have a great idea.
                         </p>
                         <a href="#register" class="btn large-top rounded"> Register To Speak </a>
                     </div>
