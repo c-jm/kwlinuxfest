@@ -22,7 +22,7 @@
     <section class="hero flex flex-center-center">
         <div class="hero-content text-center">
             <h1 class="hero-lead"> Kitchener Waterloo Linux Fest 2018 </h1>
-            <h2 class="hero-sub-text"> KW Linuxfest has been postponed to May 12th 2018. The call for papers is still open. </h2>
+            <h2 class="hero-sub-text"> KW Linuxfest has been canceled for 2018. We will be back for 2019 </h2>
         
             <a href="#register" class="hero-btn rounded"> Register To Speak </a>
         </div>
